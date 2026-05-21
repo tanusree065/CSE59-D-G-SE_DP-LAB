@@ -382,8 +382,7 @@ Relationships:
 
 * One user can create multiple tasks.
 * One user can receive multiple notifications.
-
----
+<img src="images/ER Diagram.png">
 
 # STATE DIAGRAM
 
